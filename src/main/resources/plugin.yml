@@ -1,0 +1,8 @@
+name: BlueMarble
+version: '${project.version}'
+main: kr.ne.skeleton.bluemarble.BlueMarble
+api-version: 1.16
+authors: [ skeleton ]
+
+commands:
+  bluemarble:
